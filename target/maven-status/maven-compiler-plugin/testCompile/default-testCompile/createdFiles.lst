@@ -1,0 +1,6 @@
+pages\WelcomePage.class
+common\CommonMethods.class
+pages\CreateAccountPage.class
+pages\LogOffPage.class
+tests\LoginTests.class
+pages\SignInPage.class
